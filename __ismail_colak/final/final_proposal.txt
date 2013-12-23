@@ -1,0 +1,11 @@
+Proposal for final project:
+
+I am planning to build on my midterm project, which is an application that displays the highest paid athletes in 4 major US leagues.
+
+Audience: Anyone who is interested in professional sports economy.
+
+Description of Functionality: The user will be able to create an account, then pick one or more leagues he / she would like to follow. The system then saves the preferences and displays the top-paid athletes in selected leagues. System also saves the data and compares it to the previous login. If the rankings change, system tells the user whether the rankings changes since last login.
+
+API: the project will be using USA Today's API, and potentially another API to display the images of the athletes being displayed.
+
+      
